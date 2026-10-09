@@ -1,0 +1,5 @@
+The areas of crops in broiler production are calculated as the areas of production direction "08 poultry meat" * 0.93. Poultry production includes, in addition to broilers, e.g. turkey. Based on Luke's 2022 meat production statistics, broiler production is 93% of all poultry meat production.
+
+Viljelykasvien pinta-alat broilerintuotannossa on laskettu tuotantosuunnan "08 siipikarjanliha" pinta-alat * 0,93. Siipikarjatuotanto sisältää broilerin lisäksi mm. kalkkunan. Luken v. 2022 lihantuotantotilaston perusteella broilerituotanto on 93 % kaikesta siipikarjanlihatuotannosta.
+
+https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__02%20Maatalous__04%20Tuotanto__06%20Lihantuotanto__04%20Vuositilastot/02_Lihantuotanto_teurastamoissa_v.px/

@@ -1,0 +1,7 @@
+animals07
+
+The animal count for Southeastern Finland has been set to 0 because there are fewer than three farms in the area and no land-use data is available for it. Since the area's production is unknown, consumption—which is derived from calculations based on animal numbers and diet—is also excluded from the figures.
+
+***
+
+Kaakkois-Suomen eläinmäärä muutettu arvoksi 0, koska alueella on alle 3 tilaa eikä sille ole maankäyttötietoja. Koska emme tiedä alueen tuotantoa, poistetaan laskuista myös kulutus (mikä tulee eläinten määrä*dieetti laskujen kautta).
